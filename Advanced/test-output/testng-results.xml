@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13628" started-at="2021-08-25T05:55:47Z" finished-at="2021-08-25T05:56:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13628" started-at="2021-08-25T05:55:47Z" finished-at="2021-08-25T05:56:01Z">
+      <class name="Demo.Extended_report">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:Demo.Extended_report@1e397ed7]" name="startTest" is-config="true" duration-ms="204" started-at="2021-08-25T05:55:47Z" finished-at="2021-08-25T05:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="extentReportsDemo()[pri:0, instance:Demo.Extended_report@1e397ed7]" name="extentReportsDemo" duration-ms="9179" started-at="2021-08-25T05:55:47Z" finished-at="2021-08-25T05:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportsDemo -->
+        <test-method status="PASS" signature="failed_test()[pri:0, instance:Demo.Extended_report@1e397ed7]" name="failed_test" duration-ms="3558" started-at="2021-08-25T05:55:56Z" finished-at="2021-08-25T05:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failed_test -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Demo.Extended_report@1e397ed7]" name="endTest" is-config="true" duration-ms="654" started-at="2021-08-25T05:56:00Z" finished-at="2021-08-25T05:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Demo.Extended_report -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

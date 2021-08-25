@@ -1,0 +1,128 @@
+???2021-08--18 13:19:42??? INFO  Demo.Log4j1???:16 - Example for info msg
+???2021-08--18 13:19:42??? WARN  Demo.Log4j1???:17 - Example for warn msg
+???2021-08--18 13:19:42??? ERROR Demo.Log4j1???:18 - Example for error msg
+???2021-08--18 13:19:42??? FATAL Demo.Log4j1???:19 - Example for fatal msg
+2021-08--18 13:22:09 INFO  Log4j1:16 - Example for info msg
+2021-08--18 13:22:09 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 13:22:09 ERROR Log4j1:18 - Example for error msg
+2021-08--18 13:22:09 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 13:23:18 INFO  Log4j1:16 - Example for info msg
+2021-08--18 13:23:18 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 13:23:18 ERROR Log4j1:18 - Example for error msg
+2021-08--18 13:23:18 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 13:24:18 INFO  Log4j1:16 - Example for info msg
+2021-08--18 13:24:18 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 13:24:18 ERROR Log4j1:18 - Example for error msg
+2021-08--18 13:24:18 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 13:32:13 INFO  Log4j1:16 - Example for info msg
+2021-08--18 13:32:13 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 13:32:13 ERROR Log4j1:18 - Example for error msg
+2021-08--18 13:32:13 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 13:54:58 INFO  Log4j1:16 - Example for info msg
+2021-08--18 13:54:58 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 13:54:58 ERROR Log4j1:18 - Example for error msg
+2021-08--18 13:54:58 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 17:46:54 INFO  Log4j1:16 - Example for info msg
+2021-08--18 17:46:54 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 17:46:54 ERROR Log4j1:18 - Example for error msg
+2021-08--18 17:46:54 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 17:47:16 INFO  Log4j1:16 - Example for info msg
+2021-08--18 17:47:16 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 17:47:16 ERROR Log4j1:18 - Example for error msg
+2021-08--18 17:47:16 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 18:13:52 INFO  Log4j1:16 - Example for info msg
+2021-08--18 18:13:52 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 18:13:52 ERROR Log4j1:18 - Example for error msg
+2021-08--18 18:13:52 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 18:14:28 INFO  Log4j1:16 - Example for info msg
+2021-08--18 18:14:28 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 18:14:28 ERROR Log4j1:18 - Example for error msg
+2021-08--18 18:14:28 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 18:14:59 INFO  Log4j1:16 - Example for info msg
+2021-08--18 18:14:59 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 18:14:59 ERROR Log4j1:18 - Example for error msg
+2021-08--18 18:14:59 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 18:15:36 INFO  Log4j1:16 - Example for info msg
+2021-08--18 18:15:37 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 18:15:37 ERROR Log4j1:18 - Example for error msg
+2021-08--18 18:15:37 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 18:56:50 INFO  Log4j1:16 - Example for info msg
+2021-08--18 18:56:50 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 18:56:50 ERROR Log4j1:18 - Example for error msg
+2021-08--18 18:56:50 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 23:10:47 INFO  Log4j1:16 - Example for info msg
+2021-08--18 23:10:47 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 23:10:47 ERROR Log4j1:18 - Example for error msg
+2021-08--18 23:10:47 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 23:13:11 INFO  Log4j1:16 - Example for info msg
+2021-08--18 23:13:11 WARN  Log4j1:17 - Example for warn msg
+2021-08--18 23:13:11 ERROR Log4j1:18 - Example for error msg
+2021-08--18 23:13:11 FATAL Log4j1:19 - Example for fatal msg
+2021-08--18 23:18:53 INFO  Log4j1:20 - Example for info msg
+2021-08--18 23:18:53 WARN  Log4j1:21 - Example for warn msg
+2021-08--18 23:18:53 ERROR Log4j1:22 - Example for error msg
+2021-08--18 23:18:53 FATAL Log4j1:23 - Example for fatal msg
+2021-08--18 23:19:57 INFO  Log4j1:20 - Example for info msg
+2021-08--18 23:19:57 WARN  Log4j1:21 - Example for warn msg
+2021-08--18 23:19:57 ERROR Log4j1:22 - Example for error msg
+2021-08--18 23:19:57 FATAL Log4j1:23 - Example for fatal msg
+2021-08--18 23:20:38 INFO  Log4j1:20 - Example for info msg
+2021-08--18 23:20:38 WARN  Log4j1:21 - Example for warn msg
+2021-08--18 23:20:38 ERROR Log4j1:22 - Example for error msg
+2021-08--18 23:20:38 FATAL Log4j1:23 - Example for fatal msg
+2021-08--18 23:22:10 INFO  Log4j1:20 - Example for info msg
+2021-08--18 23:22:10 WARN  Log4j1:21 - Example for warn msg
+2021-08--18 23:22:10 ERROR Log4j1:22 - Example for error msg
+2021-08--18 23:22:10 FATAL Log4j1:23 - Example for fatal msg
+2021-08--18 23:22:22 INFO  Log4j1:20 - Example for info msg
+2021-08--18 23:22:22 WARN  Log4j1:21 - Example for warn msg
+2021-08--18 23:22:22 ERROR Log4j1:22 - Example for error msg
+2021-08--18 23:22:22 FATAL Log4j1:23 - Example for fatal msg
+2021-08--19 10:28:24 INFO  Log4j1:19 - Example for info msg
+2021-08--19 10:28:25 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 10:28:25 ERROR Log4j1:21 - Example for error msg
+2021-08--19 10:28:25 FATAL Log4j1:22 - Example for fatal msg
+2021-08--19 11:20:49 INFO  Log4j1:19 - Example for info msg
+2021-08--19 11:20:49 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 11:20:49 ERROR Log4j1:21 - Example for error msg
+2021-08--19 11:20:49 FATAL Log4j1:22 - Example for fatal msg
+2021-08--19 11:21:22 INFO  Log4j1:19 - Example for info msg
+2021-08--19 11:21:22 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 11:21:22 ERROR Log4j1:21 - Example for error msg
+2021-08--19 11:21:22 FATAL Log4j1:22 - Example for fatal msg
+2021-08-19 16:10:21,046 [main] INFO  Demo.Log4j1 - Example for info msg
+2021-08-19 16:10:21,064 [main] WARN  Demo.Log4j1 - Example for warn msg
+2021-08-19 16:10:21,064 [main] ERROR Demo.Log4j1 - Example for error msg
+2021-08-19 16:10:21,064 [main] FATAL Demo.Log4j1 - Example for fatal msg
+2021-08-19 16:35:01,351 [main] INFO  Demo.Log4j1 - Example for info msg
+2021-08-19 16:35:01,360 [main] WARN  Demo.Log4j1 - Example for warn msg
+2021-08-19 16:35:01,361 [main] ERROR Demo.Log4j1 - Example for error msg
+2021-08-19 16:35:01,361 [main] FATAL Demo.Log4j1 - Example for fatal msg
+2021-08-19 16:35:14,176 [main] INFO  Demo.Log4j1 - Example for info msg
+2021-08-19 16:35:14,177 [main] WARN  Demo.Log4j1 - Example for warn msg
+2021-08-19 16:35:14,177 [main] ERROR Demo.Log4j1 - Example for error msg
+2021-08-19 16:35:14,177 [main] FATAL Demo.Log4j1 - Example for fatal msg
+2021-08--19 16:44:49 INFO  Log4j1:19 - Example for info msg
+2021-08--19 16:44:49 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 16:44:49 ERROR Log4j1:21 - Example for error msg
+2021-08--19 16:44:49 FATAL Log4j1:22 - Example for fatal msg
+2021-08--19 16:45:35 INFO  Log4j1:19 - Example for info msg
+2021-08--19 16:45:35 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 16:45:35 ERROR Log4j1:21 - Example for error msg
+2021-08--19 16:45:35 FATAL Log4j1:22 - Example for fatal msg
+2021-08--19 17:20:58 INFO  Log4j1:19 - Example for info msg
+2021-08--19 17:20:58 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 17:20:58 ERROR Log4j1:21 - Example for error msg
+2021-08--19 17:20:58 FATAL Log4j1:22 - Example for fatal msg
+2021-08--19 17:54:12 INFO  Log4j1:19 - Example for info msg
+2021-08--19 17:54:12 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 17:54:12 ERROR Log4j1:21 - Example for error msg
+2021-08--19 17:54:12 FATAL Log4j1:22 - Example for fatal msg
+2021-08--19 17:55:02 INFO  Log4j1:19 - Example for info msg
+2021-08--19 17:55:02 WARN  Log4j1:20 - Example for warn msg
+2021-08--19 17:55:02 ERROR Log4j1:21 - Example for error msg
+2021-08--19 17:55:02 FATAL Log4j1:22 - Example for fatal msg
+2021-08--20 11:56:16 INFO  Log4j1:19 - Example for info msg
+2021-08--20 11:56:16 WARN  Log4j1:20 - Example for warn msg
+2021-08--20 11:56:16 ERROR Log4j1:21 - Example for error msg
+2021-08--20 11:56:16 FATAL Log4j1:22 - Example for fatal msg
